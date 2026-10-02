@@ -1,4 +1,4 @@
-# Fetal Cardiac Abnormality Detection using QViT (Ultrasound and NIFECG)
+# Fetal Cardiac Abnormality Detection using QViT (Ultrasound Images and NIFECG)
 
 ## Overview
 
